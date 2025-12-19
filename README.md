@@ -1,8 +1,8 @@
-# Video Colorization
+# Image Colorization
 
 **A Deep Spatial-Temporal Feature Propagation Network for Video Colorization**
 
-Author: Mayank
+Author: Mayank & Sajeed
 
 ## Demo
 
@@ -95,3 +95,4 @@ pip install lpips && python evaluation_matrics/evaluation.py
 ## License
 
 This project is licensed under BY-NC-SA 4.0. See [LICENSES.md](LICENSES.md) for details.
+
