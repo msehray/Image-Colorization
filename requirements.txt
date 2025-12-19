@@ -1,0 +1,11 @@
+progressbar2
+gdown
+gitpython
+hickle
+tensorboard
+numpy
+scikit-image
+einops
+torch
+opencv-python-headless
+wandb 
